@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">My Love</string>
+    <string name="change_language">Change Language</string>
+    <string name="love">Love Quotes</string>
+    <string name="family">Family Quotes</string>
+    <string name="life">Life Quotes</string>
+    <string name="positive">Positive Quotes</string>
+    <string name="attitude">Attitude Quotes</string>
+    <string name="beauty">Beauty Quotes</string>
+    <string name="funny">Funny Quotes</string>
+    <string name="friendship">Friendship Quotes</string>
+    <string name="dream">Dream Quotes</string>
+    <string name="motivational">Motivational Quotes</string>
+    <string name="inspirational">Inspirational Quotes</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- Love contents goes from here -->
+
+    <string name="i_miss_you_mom">Let us always meet each other with a smile, for the smile is the beginning of love.</string>
+    <string name="mother_teresa">Mother Teresa</string>
+
+    <string name="keep_love">Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.</string>
+    <string name="oscar">Oscar Wilde</string>
+
+    <string name="loving_heart">A loving heart is the truest wisdom.</string>
+    <string name="charles">Charles Dickens</string>
+    
+    <string name="remedy">There is no remedy for love but to love more.</string>
+    <string name="henry">Henry David Thoreau</string>
+
+    <string name="in_love">Let all that you do be done in love.</string>
+    <string name="corinthians">1 Corinthians 16:14</string>
+
+    <string name="binds_everything">And above all these put on love, which binds everything together in perfect harmony.</string>
+    <string name="colossians">Colossians 3:14</string>
+
+    <string name="three_remains">And now these three remain faith, hope, and love. But the greatest of these is love.</string>
+    <string name="corith1313">1 Corinthians 13:13</string>
+
+    <string name="love_is">Love is not only something you feel, it is something you do.</string>
+    <string name="david">David Wilkerson</string>
+
+    <string name="loving_is_greatest">Being loved is life\'s second greatest blessing; loving is the greatest.</string>
+    <string name="jack">Jack Hyles</string>
+
+    <string name="since_love_grows">Since love grows within you, so beauty grows. For love is the beauty of the soul.</string>
+    <string name="augustine">Saint Augustine</string>
+
+    <string name="the_best_love">The best use of life is love. The best expression of love is time. The best time to love is now.</string>
+    <string name="rick">Rick Warren</string>
+
+    <string name="how_do_you_spell">How do you spell \'love\'? – Piglet \"You don\'t spell it, you feel it.\"</string>
+    <string name="pooh">Pooh</string>
+
+    <string name="love_takes_off">Love takes off masks that we fear we cannot live without and know we cannot live within.</string>
+    <string name="james">James Baldwin</string>
+
+    <string name="love_recognizes">Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.</string>
+    <string name="maya">Maya Angelou</string>
+
+    <string name="friend_is_someone">A friend is someone who knows all about you and still loves you.</string>
+    <string name="elbert">Elbert Hubbard</string>
+
+    <string name="darkness_cannot_drive">Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.</string>
+    <string name="martin">Martin Luther King Jr</string>
+
+    <string name="be_devoted_to">Be devoted to one another in love. Honor one another above yourselves.</string>
+    <string name="romans_10">Romans 12.10</string>
+
+    <string name="there_is_no_fear">There is no fear in love. But perfect love drives out fear</string>
+    <string name="John4_18">1 John 4:18</string>
+
+    <string name="love_is_putting">Love is putting someone else’s needs before yours.</string>
+    <string name="olaf">Olaf</string>
+
+
+</resources>

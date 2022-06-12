@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8028819094",
+    "project_id": "jaalallee-koo",
+    "storage_bucket": "jaalallee-koo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8028819094:android:d94671d6f6fe708a8abcb7",
+        "android_client_info": {
+          "package_name": "com.beckytech.jaalalleekoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8028819094-ahjsiiev2gojlkchdb83h9g5365iu28a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UcnjhPcAwa8OjcDFVkdlsBzx-If_11g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8028819094-ahjsiiev2gojlkchdb83h9g5365iu28a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

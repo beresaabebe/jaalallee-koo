@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ፍቅሬ</string>
+    <string name="change_language">ቋንቋ ቀይር</string>
+    <string name="love">የፍቅር ጥቅሶች</string>
+    <string name="family">የቤተሰብ ጥቅሶች</string>
+    <string name="life">የሕይወት ጥቅሶች</string>
+    <string name="positive">አዎንታዊ ጥቅሶች</string>
+    <string name="attitude">የአመለካከት ጥቅሶች</string>
+    <string name="beauty">የውበት ጥቅሶች</string>
+    <string name="funny">አስቂኝ ጥቅሶች</string>
+    <string name="friendship">ጓደኝነት ጥቅሶች</string>
+    <string name="dream">የህልም ጥቅሶች</string>
+    <string name="motivational">አነቃቂ ጥቅሶች</string>
+    <string name="inspirational">አነሳሽ ጥቅሶች</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- Love contents goes from here -->
+
+    <string name="i_miss_you_mom">ፈገግታ የፍቅር መጀመሪያ ነውና ሁሌም በፈገግታ እንገናኝ።</string>
+    <string name="mother_teresa">እናት ቴሬዛ</string>
+    <string name="keep_love">ፍቅርን በልብህ አኑር። ያለ እሱ ሕይወት አበባዎቹ ሲሞቱ ፀሐይ እንደሌለበት የአትክልት ቦታ ነው።</string>
+    <string name="oscar">ኦስካር ዋይልድ</string>
+
+    <string name="loving_heart">አፍቃሪ ልብ እውነተኛው ጥበብ ነው።</string>
+    <string name="charles">ቻርለስ ዲከንስ</string>
+
+    <string name="remedy">There is no remedy for love but to love more.</string>
+    <string name="henry">Henry David Thoreau</string>
+
+    <string name="in_love">የምታደርጉት ሁሉ በፍቅር ይሁን።</string>
+    <string name="corinthians">1ኛ ቆሮንቶስ 16፡14</string>
+
+    <string name="binds_everything">ከእነዚህም ሁሉ በላይ ሁሉንም ነገር በፍፁም ስምምነት የሚያስተሳስር ፍቅርን ልበሱ።</string>
+    <string name="colossians">ቆላስይስ 3፡14</string>
+
+    <string name="three_remains">እና አሁን እነዚህ ሦስቱ እምነት፣ ተስፋ እና ፍቅር ይቀራሉ። ከእነዚህ ውስጥ ትልቁ ግን ፍቅር ነው።</string>
+    <string name="corith1313">1ኛ ቆሮንቶስ 13፡13</string>
+
+    <string name="love_is">ፍቅር የሚሰማህ ብቻ ሳይሆን የምታደርገው ነገር ነው።</string>
+    <string name="david">ዴቪድ ዊልከርሰን</string>
+
+    <string name="loving_is_greatest">መወደድ ሁለተኛው ታላቅ የሕይወት በረከት ነው; ፍቅር ከሁሉ ይበልጣል።</string>
+    <string name="jack">ጃክ ሃይልስ</string>
+
+    <string name="since_love_grows">ፍቅር በውስጣችሁ ስለሚያድግ ውበትም ያድጋል። ፍቅር የነፍስ ውበት ነውና።</string>
+    <string name="augustine">ቅዱስ አውጉስቲን</string>
+
+    <string name="the_best_love">የህይወት ምርጥ ጥቅም ፍቅር ነው። በጣም ጥሩው የፍቅር መግለጫ ጊዜ ነው። ለመውደድ በጣም ጥሩው ጊዜ አሁን ነው።</string>
+    <string name="rick">ሪክ ዋረን</string>
+
+    <string name="how_do_you_spell">\'ፍቅር\' እንዴት ይጽፋሉ? - Piglet \"አትጽፈውም, ይሰማሃል.\"</string>
+    <string name="pooh">ፑህ</string>
+
+    <string name="love_takes_off">ፍቅር ያለሱ መኖር እንደማንችል የምንፈራውን እና በውስጣችን መኖር እንደማንችል የምናውቅበትን ጭንብል ያወልቃል።</string>
+    <string name="james">ጄምስ ባልድዊን</string>
+
+    <string name="love_recognizes">ፍቅር ምንም እንቅፋት አይገነዘብም። መሰናክሎችን እየዘለለ፣ አጥርን ዘለል፣ እና ወደ መድረሻው በተስፋ ለመምጣት ግድግዳውን ዘልቋል።</string>
+    <string name="maya">ማያ አንጀሉ</string>
+
+    <string name="friend_is_someone">ጓደኛ ስለእርስዎ ሁሉንም የሚያውቅ እና አሁንም የሚወድዎት ሰው ነው።</string>
+    <string name="elbert">ኤልበርት ሁባርድ</string>
+
+    <string name="darkness_cannot_drive">ጨለማ ጨለማን አያጠፋውም፤ ያንን ማድረግ የሚችለው ብርሃን ብቻ ነው። ጥላቻ ጥላቻን አያባርርም፤ ይህን ማድረግ የሚችለው ፍቅር ብቻ ነው።</string>
+    <string name="martin">ማርቲን ሉተር ኪንግ ጁኒየር</string>
+
+    <string name="be_devoted_to">እርስ በርሳችሁ በፍቅር ተዋደዱ። እርስ በርሳችሁ ተከባበሩ።</string>
+    <string name="romans_10">ሮሜ 12፡10</string>
+
+    <string name="there_is_no_fear">በፍቅር ፍርሃት የለም። ፍፁም ፍቅር ግን ፍርሃትን አውጥቶ ይጥላል።</string>
+    <string name="John4_18">1ኛ ዮሐንስ 4፡18</string>
+
+    <string name="love_is_putting">ፍቅር የሌላ ሰውን ፍላጎት ከአንተ ማስቀደም ነው።</string>
+    <string name="olaf">ኦላፍ</string>
+</resources>
